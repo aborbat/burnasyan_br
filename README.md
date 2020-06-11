@@ -1,5 +1,4 @@
-# EN
-# burnasyan_br
+## EN
 breast cancer dataset by Burnasyan Federal Medical Biophysical Center Of Federal Medical Biological Agency (Moscow, Russia)
 contains link for 40K+ breast tumor tissue images data set and annotations.
 1. for research and education purposes
@@ -30,8 +29,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
   ●	obj4_300 - quantity of images x4; size 300х300 px
   ●	obj4_500 - quantity of images x4; size 500х500 px
 
-# RU
-# burnasyan_br
+## RU
 набор данных патологических процессов молочной желез, подготовленный в ФГБУ ГНЦ ФМБЦ им А.И.Бурназяна ФМБА России
 содержит ссылку на набор из более 40 тыс изображений и описание
 1. только для исследовательских и образовательных целей
