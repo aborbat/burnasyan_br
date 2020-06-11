@@ -15,7 +15,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >>- x10: 0,076 sq mm and 0,211 sq mm
 >5. images were reviewed by qualified pathologists to withdraw pictures containing <20% pathologically changed epithelia
 5. link - <<----------link----------->>
-6. annotation file https://github.com/aborbat/burnasyan_br/burnasyan_Br.csv
+6. annotation file burnasyan_br.csv
 >- IDX - microscopy slide unique identifier
 >-	Num - clinical case unique identifier
 >-	age - age
@@ -46,7 +46,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >>- при увеличении 10, соответственно, 0,076 кв мм и 0,211 кв мм
 >5. изображения повторно просмотрены патологоанатомом: изображения, где железистый компонент патологического очага визуально составлял менее 20% площади изображения, удалялись из набора данных 
 5. ссылка на набор изображений - <<----------link----------->>
-6. аннотация - https://github.com/aborbat/burnasyan_br/blob/burnasyan_Br.csv
+6. аннотация - burnasyan_br.csv
 >- IDX - уникальный идентификатор микропрепарата
 >- Num - уникальный идентификатор клинического случая
 >- age - возраст пациента на момент исследования
