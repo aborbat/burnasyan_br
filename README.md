@@ -19,7 +19,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >- IDX - microscopy slide unique identifier
 >-	Num - clinical case unique identifier
 >-	age - age
->-	Dia - WHO pathologic classification
+>-	Dia - WHO pathologic classification: CR - non specified invasive carcinoma, Lob_CR - lobular invasive carcinoma, Muc_CR - mucinous carcinoma, Cribr_CR - cribriform carcinoma, DCIS - nin invasive ductal carcinoma, FA - fibroadenoma, FCD - cystic disease, adenosis, Medul_CR - medullary carcinoma, Micpap_CR - micropapillary carcinoma, Pap_CR - solid papillary carcinoma, Papilloma - benign papilloma
 >-	Dia2 - type (Benign, InSitu, Invasive)
 >-	biopsy - surgery OR biopsy sample
 >-	Grade - grade: benign lesions - G0, invasive - Nottingham Histologic Score, DCIS - nuclear grade
@@ -50,7 +50,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >- IDX - уникальный идентификатор микропрепарата
 >- Num - уникальный идентификатор клинического случая
 >- age - возраст пациента на момент исследования
->- Dia - морфологический вариант патологического процесса в соответствии с классификацией ВОЗ
+>- Dia - морфологический вариант патологического процесса в соответствии с классификацией ВОЗ: CR - неспецифицированный инвазивный рак, Lob_CR - дольковый инвазивный рак, Muc_CR - муцинозная карцинома, Cribr_CR - крибриформная карцинома, DCIS - неинвазивный внутрипротоковый рак, FA - фиброаденома, FCD - фиброзно-кистозная мастопатия, аденоз, Medul_CR - медуллярная карцинома, Micpap_CR - микропапиллярный рак, Pap_CR - солидный папиллярный рак, Papilloma - доброкачественная папиллома
 >- Dia2 - характер патологического процесса (Benign, InSitu, Invasive)
 >- biopsy - операционный (surgery) или биопсийный материал (biopsy)
 >- Grade - оценка степени злокачественности: для инвазивных опухолей по Ноттингемским критериям, для протоковой карциномы инситу - по критериям ядерного полиморфизма, G0 соответствует доброкачественным поражениям
@@ -59,5 +59,3 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >- obj10_500 - количество изображений при увеличении 10 и размере 500х500 пикселей
 >- obj4_300 - количество изображений при увеличении 4 и размере 300х300 пикселей
 >- obj4_500 - количество изображений при увеличении 4 и размере 500х500 пикселей
-  
-  
