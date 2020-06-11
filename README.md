@@ -16,6 +16,19 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
     ii) x10: 0,076 sq mm and 0,211 sq mm
   f. images were reviewed by qualified pathologists to withdraw pictures containing <20% pathologically changed epithelia
 5. link - <<----------link----------->>
+6. annotation file https://github.com/aborbat/burnasyan_br/blob/burnasyan_Br.csv
+  ●	IDX - microscopy slide unique identifier
+  ●	Num - clinical case unique identifier
+  ●	age - age
+  ●	Dia - WHO pathologic classification
+  ●	Dia2 - type (Benign, InSitu, Invasive)
+  ●	biopsy - surgery OR biopsy sample
+  ●	Grade - grade: benign lesions - G0, invasive - Nottingham Histologic Score, DCIS - nuclear grade
+  ●	TNM - TNM 8: includes pT and pN; if no surgery data - cT и cN
+  ●	obj10_300 - quantity of images x10; size 300х300 px
+  ●	obj10_500 - quantity of images x10; size 500х500 px
+  ●	obj4_300 - quantity of images x4; size 300х300 px
+  ●	obj4_500 - quantity of images x4; size 500х500 px
 
 # RU
 # burnasyan_br
@@ -35,3 +48,18 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
     ii) при увеличении 10, соответственно, 0,076 кв мм и 0,211 кв мм
   д. изображения повторно просмотрены патологоанатомом: изображения, где железистый компонент патологического очага визуально составлял менее 20% площади изображения, удалялись из набора данных 
 5. ссылка на набор изображений - <<----------link----------->>
+6. аннотация - https://github.com/aborbat/burnasyan_br/blob/burnasyan_Br.csv
+  ●	IDX - уникальный идентификатор микропрепарата
+  ●	Num - уникальный идентификатор клинического случая
+  ●	age - возраст пациента на момент исследования
+  ●	Dia - морфологический вариант патологического процесса в соответствии с классификацией ВОЗ
+  ●	Dia2 - характер патологического процесса (Benign, InSitu, Invasive)
+  ●	biopsy - операционный (surgery) или биопсийный материал (biopsy)
+  ●	Grade - оценка степени злокачественности: для инвазивных опухолей по Ноттингемским критериям, для протоковой карциномы инситу - по критериям ядерного полиморфизма, G0 соответствует доброкачественным поражениям
+  ●	TNM - классификация случая по системе TNM 8 пересмотра, включены только категории pT и pN, в ряде случаев используется cT и cN, если оперативное вмешательство не проводилось
+  ●	obj10_300 - количество изображений при увеличении 10 и размере 300х300 пикселей
+  ●	obj10_500 - количество изображений при увеличении 10 и размере 500х500 пикселей
+  ●	obj4_300 - количество изображений при увеличении 4 и размере 300х300 пикселей
+  ●	obj4_500 - количество изображений при увеличении 4 и размере 500х500 пикселей
+  
+  
