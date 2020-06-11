@@ -15,7 +15,7 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 >>- x10: 0,076 sq mm and 0,211 sq mm
 >5. images were reviewed by qualified pathologists to withdraw pictures containing <20% pathologically changed epithelia
 5. link - <<----------link----------->>
-6. annotation file https://github.com/aborbat/burnasyan_br/blob/burnasyan_Br.csv
+6. annotation file https://github.com/aborbat/burnasyan_br/burnasyan_Br.csv
 >- IDX - microscopy slide unique identifier
 >-	Num - clinical case unique identifier
 >-	age - age
