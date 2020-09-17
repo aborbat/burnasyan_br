@@ -2,7 +2,7 @@
 breast cancer dataset by Burnasyan Federal Medical Biophysical Center Of Federal Medical Biological Agency (Moscow, Russia)
 contains link for 40K+ breast tumor tissue images data set and annotations.
 1. for research and education purposes
-2. when use, please, quote <<-----------article------------->>
+2. when use, please, quote Borbat A.M., Lishchuk S.V. The first Russian breast pathology histologic images data set. Information technologies for the Physician. 2020. 3:25-30. DOI: 10.37690/1811-0193-2020-3-25-30 
 3. short description: contains 42904 images of 12 breast pathology entities with clinical data (age, grade, TNM)
 4. data set preparation procedure
 >1. slides with breast (female) tissue samples were selected: 91 patients, 104 slides
@@ -33,7 +33,8 @@ contains link for 40K+ breast tumor tissue images data set and annotations.
 набор данных патологических процессов молочной желез, подготовленный в ФГБУ ГНЦ ФМБЦ им А.И.Бурназяна ФМБА России
 содержит ссылку на набор из более 40 тыс изображений и описание
 1. только для исследовательских и образовательных целей
-2. при использовании набора данных обязательная ссылка на публикацию <<-----------article------------->>
+2. при использовании набора данных обязательная ссылка на публикацию Борбат А. М., Лищук С. В. Первый российский набор данных гистологических изображений патологических процес-
+сов молочной железы. Врачи и информационные технологии. 2020. 3:25-30. DOI: 10.37690/1811-0193-2020-3-25-30.
 3. краткое описание: содержит 42904 изображения 12 категорий опухолевых и неопухолевых поражений молочной железы с клиническими характеристиками (возраст, TNM, дифференцировка)
 4. процедура подготовки набора данных
 >1. отобраны микроскопические препараты с патологически измененными тканями молочной железы: 91 пациент, 104 микропрепарата
