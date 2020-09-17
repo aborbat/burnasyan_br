@@ -3,7 +3,7 @@ breast cancer dataset by Burnasyan Federal Medical Biophysical Center Of Federal
 contains link for 40K+ breast tumor tissue images data set and annotations.
 1. for research and education purposes
 2. when use, please, quote 
-Borbat A.M., Lishchuk S.V. The first Russian breast pathology histologic images data set. Information technologies for the Physician. 2020. 3:25-30. DOI: 10.37690/1811-0193-2020-3-25-30 
+<br>Borbat A.M., Lishchuk S.V. The first Russian breast pathology histologic images data set. Information technologies for the Physician. 2020. 3:25-30. DOI: 10.37690/1811-0193-2020-3-25-30 
 3. short description: contains 42904 images of 12 breast pathology entities with clinical data (age, grade, TNM)
 4. data set preparation procedure
 >1. slides with breast (female) tissue samples were selected: 91 patients, 104 slides
